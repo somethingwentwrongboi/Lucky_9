@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+.jumbotron {
+    background-image: url("assets/bg-banner.jpg");
+    background-size: cover;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.jumbotron h1, p, a {
+    text-align: center;
+    color: white;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+.game{
+    display: flex;
+    justify-content: center;
+}
